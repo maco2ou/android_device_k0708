@@ -1,9 +1,9 @@
 # android_device_k0708
 
-7-inch tablet
-Model K0708
-OS 4.4.2
-Kernel 3.4.67
+< 7-inch tablet ><br><br>
+Model: K0708<br>
+OS: 4.4.2<br>
+Kernel: 3.4.67<br>
 
 # bugs<br>
  FMradio, Camera, VPN,...etc
